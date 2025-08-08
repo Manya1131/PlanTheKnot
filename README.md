@@ -1,4 +1,5 @@
 💍 PlanTheKnot
+
 PlanTheKnot is a smart wedding planning web application that helps couples plan their dream wedding by offering pre-designed packages, personalized customization options, real-time budget estimations, and AI-driven planning suggestions — all in one seamless interface.
 
 🚀 Features
