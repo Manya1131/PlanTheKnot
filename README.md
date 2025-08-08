@@ -27,6 +27,7 @@ PlanTheKnot is a smart wedding planning web application that helps couples plan 
 
 
 🛠️ Technologies Used
+
 ReactJS
 
 TailwindCSS
