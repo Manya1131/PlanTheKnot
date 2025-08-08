@@ -21,9 +21,19 @@ PlanTheKnot is a smart wedding planning web application that helps couples plan 
 
 
 📸 Screenshots
+
+Home page:
 ![WhatsApp Image 2025-08-07 at 11 18 41 AM](https://github.com/user-attachments/assets/7af780d5-a3bb-4dc5-8aad-3485d10c09a1)
+
+Packages page
 ![WhatsApp Image 2025-08-07 at 11 20 39 AM](https://github.com/user-attachments/assets/3b093c7d-2c71-4879-9d0b-1f36e291be7f)
+
+Goa beach wedding page
 ![WhatsApp Image 2025-08-07 at 11 21 34 AM](https://github.com/user-attachments/assets/23b26f0a-be07-499c-b957-e78dff9cfa07)
+
+Hilltop shimla 
+![WhatsApp Image 2025-08-07 at 11 21 07 AM](https://github.com/user-attachments/assets/3219bb6b-322a-4ac5-a17e-0831b586edd1)
+
 
 
 🛠️ Technologies Used
